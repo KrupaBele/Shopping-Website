@@ -77,7 +77,7 @@ const Banner = () => {
             <img
               className=" w-screen  
               "
-              src="../public/images/banner1.jpg"
+              src="/images/banner1.jpg"
               alt="banner1"
             />
           </div>
@@ -85,7 +85,7 @@ const Banner = () => {
             <img
               className=" w-screen 
              "
-              src="../public/images/banner2.webp"
+              src="/images/banner2.webp"
               alt="banner2"
             />
           </div>
@@ -93,7 +93,7 @@ const Banner = () => {
             <img
               className=" w-screen  
               "
-              src="../public/images/banner3.webp"
+              src="/images/banner3.webp"
               alt="banner3"
             />
           </div>
