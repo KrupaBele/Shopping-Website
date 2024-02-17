@@ -82,7 +82,7 @@ const Login = () => {
         </form>
       </div>
       <div className=" md:mt-20 md:mr-24  hidden md:block md:w-screen">
-        <img src="../public/images/login.webp" alt="" />
+        <img src="/images/login.webp" alt="" />
       </div>
     </div>
   );
