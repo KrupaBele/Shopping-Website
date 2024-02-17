@@ -85,7 +85,7 @@ const Signup = () => {
           </div>
 
           <button
-            className=" w-2/3 bg-green-600  hover:bg-green-700 h-9 mb-3 border border-green-700 rounded "
+            className=" w-2/3 bg-green-600  hover:bg-green-700 h-9 mb-3 border border-green-700 rounded text-white "
             onClick={addData}
           >
             Submit
